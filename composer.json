@@ -1,0 +1,13 @@
+{
+  "name": "suresh/j-query-file-upload-s3v3",
+  "description": "demo s3 upload using version 3",
+  "authors": [
+    {
+      "name": "Suresh Velusamy",
+      "email": "sureshamk@gmail.com"
+    }
+  ],
+  "require": {
+    "aws/aws-sdk-php": "3.*"
+  }
+}
